@@ -1,0 +1,1 @@
+java -jar -Dspring.config.location=../conf/application.properties  http-client-module-VERSION.jar
